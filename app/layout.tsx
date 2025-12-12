@@ -53,7 +53,7 @@ export const metadata: Metadata = {
         type: "image/png",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/logo_bistro.png",
   },
     generator: 'v0.app'
 }
